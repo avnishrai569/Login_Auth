@@ -5,10 +5,10 @@ Installation
 To get started with this project, you will need to install Python and Django. Follow the steps below to set up the environmen
 
 1. Clone the repository
+   https://github.com/avnishrai569/Login_Auth.git
 Clone the project repository to your local machine:
 
-git clone https://github.com/yourusername/my-django-project.git
-cd my-django-project
+cd Login_Auth
 2. Create and activate a virtual environment (optional but recommended)
 
 python -m venv venv
